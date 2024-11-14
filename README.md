@@ -9,11 +9,8 @@ managing business profiles, especially for small and independent business owners
 The app provides an efficient, user-friendly platform that connects service providers 
 with their clients, enabling seamless communication and scheduling.
 
-[//]: # (<p align="center"><img src="screenshots/image1.jpeg" heigth="500" width="300" /></p>)
+### 
 
-[//]: # (<p align="center"><img src="screenshots/image2.jpeg" heigth="500" width="300" /></p>)
-
-[//]: # (<p align="center"><img src="screenshots/image3.jpeg" heigth="500" width="300" /></p>)
 <div align="center">
   <img src="screenshots/image1.jpeg" height="460" width="230" style="margin-right: 30px;" />
   <img src="screenshots/image2.jpeg" height="460" width="230" style="margin-right: 30px;" />
