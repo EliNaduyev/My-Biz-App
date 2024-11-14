@@ -15,9 +15,9 @@ with their clients, enabling seamless communication and scheduling.
 
 [//]: # (<p align="center"><img src="screenshots/image3.jpeg" heigth="500" width="300" /></p>)
 <div align="center">
-  <img src="screenshots/image1.jpeg" height="429" width="200" style="margin-right: 10px;" />
-  <img src="screenshots/image2.jpeg" height="429" width="200" style="margin-right: 10px;" />
-  <img src="screenshots/image3.jpeg" height="429" width="200" />
+  <img src="screenshots/image1.jpeg" height="460" width="230" style="margin-right: 10px;" />
+  <img src="screenshots/image2.jpeg" height="460" width="230" style="margin-right: 10px;" />
+  <img src="screenshots/image3.jpeg" height="460" width="230" />
 </div>
 
 
