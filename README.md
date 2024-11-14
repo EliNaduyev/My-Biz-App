@@ -9,7 +9,7 @@ managing business profiles, especially for small and independent business owners
 The app provides an efficient, user-friendly platform that connects service providers 
 with their clients, enabling seamless communication and scheduling.
 <a href="https://play.google.com/store/apps/details?id=my.biz.app&pli=1" target="_blank">
-<button>Download MyBiz App</button>
+<button>Download MyBiz From Google Play</button>
 </a>
 
 ### 
