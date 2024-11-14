@@ -10,7 +10,7 @@ The app provides an efficient, user-friendly platform that connects service prov
 with their clients, enabling seamless communication and scheduling.
 
 ### 
-
+<br/>
 <div align="center">
   <img src="screenshots/image1.jpeg" height="460" width="230" style="margin-right: 30px;" />
   <img src="screenshots/image2.jpeg" height="460" width="230" style="margin-right: 30px;" />
