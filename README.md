@@ -49,11 +49,12 @@ any time, ensuring that details remain accurate and relevant.
 **Data Privacy and Security:** The app collects only essential information, and users have full control 
 over their data. An easy account deletion feature permanently removes all user data from the system.
 
-### Technologies
-* Server via Ktor to handle push notification 
-* Firebase for the backend and Database 
-* Coil For Image Loading
-* DI with dagger hilt
-* MVVM for the app architecture
-* Room database for local cache 
-* Retrofit for the HTTPS requests 
+Technology Stack
+* **Jetpack Compose:** Modern declarative UI framework.
+* **Ktor:** Server-side framework for push notification handling.
+* **Coil:** Efficient image loading library.
+* **Firebase:** Comprehensive backend and remote database solution.
+* **Retrofit:** HTTP client for network requests.
+* **MVVM:** Clean, maintainable app architecture.
+* **Dagger Hilt:** Dependency injection framework.
+* **Room:** Local data caching with SQLite.
