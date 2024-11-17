@@ -49,7 +49,7 @@ any time, ensuring that details remain accurate and relevant.
 **Data Privacy and Security:** The app collects only essential information, and users have full control 
 over their data. An easy account deletion feature permanently removes all user data from the system.
 
-Technology Stack
+### Technologies
 * **Jetpack Compose:** Modern declarative UI framework.
 * **Ktor:** Server-side framework for push notification handling.
 * **Coil:** Efficient image loading library.
