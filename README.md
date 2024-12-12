@@ -51,6 +51,7 @@ over their data. An easy account deletion feature permanently removes all user d
 
 ### Technologies
 * **Jetpack Compose:** Modern declarative UI framework.
+* **Push Notification & Email Service:** Keep users updated on app activities and actions.
 * **Ktor:** Server-side framework for push notification handling.
 * **Coil:** Efficient image loading library.
 * **Firebase:** Comprehensive backend and remote database solution.
